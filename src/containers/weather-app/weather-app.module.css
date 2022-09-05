@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  /* width: 425px; */
+  max-width: 425px;
+  min-width: 220px;
+  max-height: 896px;
+  height: 100vh;
+  padding-top: var(--spacing-2);
+  margin-left: auto;
+  margin-right: auto;
+
+  outline: 1px solid var(--cols-black);
+  background-color: var(--cols-white);
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex > * {
+  flex: 1;
+}

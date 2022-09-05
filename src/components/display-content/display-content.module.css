@@ -1,0 +1,11 @@
+.desc {
+  margin-top: var(--spacing-3);
+  margin-bottom: var(--spacing-2);
+
+  text-transform: capitalize;
+}
+
+.img {
+  display: block;
+  width: 100%;
+}

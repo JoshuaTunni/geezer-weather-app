@@ -1,0 +1,55 @@
+.form {
+  --text-indent-1: 0.8rem;
+  --text-col: var(--cols-black);
+  --bkgd-col: var(--cols-white);
+  --icon-brightness: 0;
+
+  flex-grow: 1.3;
+  min-width: 50%;
+
+  text-indent: var(--text-indent-1);
+}
+
+.form:hover,
+.searchBar:focus,
+.searchBar:focus + .icon {
+  --text-col: var(--cols-white);
+  --bkgd-col: var(--cols-black);
+  --icon-brightness: 100;
+
+  caret-color: var(--cols-white);
+}
+
+.label {
+  display: block;
+}
+
+.searchBar {
+  width: 100%;
+  min-height: var(--spacing-1);
+  border: 1px solid var(--cols-black);
+  border-radius: 10px;
+
+  color: var(--text-col);
+  box-shadow: 1px 2px var(--cols-black);
+  background-color: var(--bkgd-col);
+}
+
+.searchBar::placeholder {
+  color: var(--text-col);
+}
+
+.icon {
+  position: absolute;
+  top: 50%;
+  right: var(--text-indent-1);
+  transform: translateY(-50%);
+
+  filter: brightness(var(--icon-brightness));
+}
+
+.wrapper {
+  display: inline;
+  position: relative;
+  width: 100%;
+}
