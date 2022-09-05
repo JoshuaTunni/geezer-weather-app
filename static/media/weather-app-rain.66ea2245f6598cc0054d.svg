@@ -1,0 +1,22 @@
+<svg width="325" height="325" viewBox="0 0 325 325" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_120_154)">
+<rect x="-21" y="77" width="374" height="248" fill="#1A1E27"/>
+<circle cx="99" cy="53" r="53" fill="#1A1E27"/>
+<circle cx="215.5" cy="94.5" r="34.5" fill="#1A1E27"/>
+<circle cx="40.5" cy="59.5" r="22.5" fill="#1A1E27"/>
+<ellipse cx="208" cy="63.5" rx="33" ry="32.5" fill="#1A1E27"/>
+<ellipse cx="148" cy="66.5" rx="33" ry="32.5" fill="#1A1E27"/>
+<ellipse cx="4" cy="73.5" rx="33" ry="32.5" fill="#1A1E27"/>
+<ellipse cx="321" cy="76.5" rx="33" ry="32.5" fill="#1A1E27"/>
+<ellipse cx="263" cy="76.5" rx="54" ry="52.5" fill="#1A1E27"/>
+<path d="M173 122C173 107.641 184.641 96 199 96H225V122C225 136.359 213.359 148 199 148V148C184.641 148 173 136.359 173 122V122Z" fill="white"/>
+<path d="M100 172C100 157.641 111.641 146 126 146H152V172C152 186.359 140.359 198 126 198V198C111.641 198 100 186.359 100 172V172Z" fill="white"/>
+<path d="M173 198C173 183.641 184.641 172 199 172H225V198C225 212.359 213.359 224 199 224V224C184.641 224 173 212.359 173 198V198Z" fill="white"/>
+<path d="M100 248C100 233.641 111.641 222 126 222H152V248C152 262.359 140.359 274 126 274V274C111.641 274 100 262.359 100 248V248Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_120_154">
+<rect width="325" height="325" fill="white"/>
+</clipPath>
+</defs>
+</svg>

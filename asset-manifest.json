@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/geezer-weather-app/static/css/main.436aa666.css",
+    "main.js": "/geezer-weather-app/static/js/main.1ded32c2.js",
+    "static/js/787.d9312eb8.chunk.js": "/geezer-weather-app/static/js/787.d9312eb8.chunk.js",
+    "static/media/weather-app-snow.svg": "/geezer-weather-app/static/media/weather-app-snow.b53f35a48971e6e7b009.svg",
+    "static/media/weather-app-sun.svg": "/geezer-weather-app/static/media/weather-app-sun.a9940520ee81cd95b593.svg",
+    "static/media/weather-app-mist.svg": "/geezer-weather-app/static/media/weather-app-mist.e2952fed346c3d64f73e.svg",
+    "static/media/weather-app-storm.svg": "/geezer-weather-app/static/media/weather-app-storm.0d799f9559e474079485.svg",
+    "static/media/weather-app-rain.svg": "/geezer-weather-app/static/media/weather-app-rain.66ea2245f6598cc0054d.svg",
+    "static/media/weather-app-cloud.svg": "/geezer-weather-app/static/media/weather-app-cloud.e101750eece279a7ba43.svg",
+    "static/media/weather-app-error.svg": "/geezer-weather-app/static/media/weather-app-error.a68ac563f880610513be.svg",
+    "index.html": "/geezer-weather-app/index.html",
+    "static/media/weather-app-search-icon.svg": "/geezer-weather-app/static/media/weather-app-search-icon.8c6c9bcd001ed0129387ab2c1ceca2a5.svg",
+    "main.436aa666.css.map": "/geezer-weather-app/static/css/main.436aa666.css.map",
+    "main.1ded32c2.js.map": "/geezer-weather-app/static/js/main.1ded32c2.js.map",
+    "787.d9312eb8.chunk.js.map": "/geezer-weather-app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.436aa666.css",
+    "static/js/main.1ded32c2.js"
+  ]
+}
