@@ -1,4 +1,3 @@
-import "components/search-bar/search-bar-styles.css";
 import styles from "components/search-bar/search-bar.module.css";
 
 export const SearchBar = ({ currentCity, changeCity }) => {
